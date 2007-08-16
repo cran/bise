@@ -1,0 +1,7 @@
+altGrad		Calculates the altitudinal gradient of budburst
+noMix           Determines the number of underlying mixed distritutions
+combinations    Calculates all possible combinations of a vector of integers
+equaly          Determines and extracts years where both observations stations recorded budburst
+bise            Extracts true NDVI values out of noisy data
+minimum         Extracts of the true NDVI values out of noisy data the minimum
+maximum         Extracts of the true NDVI values out of noisy data the maximum
